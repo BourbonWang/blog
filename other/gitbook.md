@@ -228,3 +228,74 @@ docker exec -it blog /bin/bash
 
 容器内同样方法安装gitbook。
 
+### 部署 webhook
+
+apt 换源(debian)后，安装 pip
+
+```sh
+apt-get install python3-pip
+```
+
+我使用的 webhookit：[https://github.com/hustcc/webhookit](https://github.com/hustcc/webhookit) 可根据文档自行安装。
+
+由于这个webhook只能用python2, 注意使用 pip2。
+
+```sh
+pip2 install webhookit
+webhookit_config > /home/webhook/config.py
+```
+
+编辑config.py ，只需要修改`repo_name/branch_name` 和 `SCRIPT` 
+
+```python
+# -*- coding: utf-8 -*-
+'''
+Created on Mar-03-17 15:14:34
+@author: hustcc/webhookit
+'''
+
+# This means:
+# When get a webhook request from `repo_name` on branch `branch_name`,
+# will exec SCRIPT on servers config in the array.
+WEBHOOKIT_CONFIGURE = {
+    # a web hook request can trigger multiple servers.
+    'repo_name/branch_name': [{
+        # if exec shell on local server, keep empty.
+        'HOST': '',  # will exec shell on which server.
+        'PORT': '',  # ssh port, default is 22.
+        'USER': '',  # linux user name
+        'PWD': '',  # user password or private key.
+
+        # The webhook shell script path.
+        'SCRIPT': '/home/webhook/shell.sh'
+    }, 
+	...],
+	...
+}
+```
+
+创建shell.sh，就是自动执行的脚本，用来拉取博客，完成更新
+
+```sh
+cd /home/blog
+git pull
+gitbook install
+gitbook init
+gitbook serve
+```
+
+### 启动 webhook
+
+```sh
+webhookit -c /home/webhook/config.py -p 4001
+```
+
+监听4001端口，浏览器访问即可查看webhook URL以及配置信息。
+
+### 配置 github
+
+仓库 -> Settings -> Webhooks -> Add webhook
+
+- payload URL：填写webhook URL
+- Content type ：application/json
+- 触发条件：Just the push event.
