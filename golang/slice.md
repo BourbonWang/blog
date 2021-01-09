@@ -1,4 +1,4 @@
-# 详解 go slice
+# 详解 Go slice
 
 切片 slice 是golang的复合类型，是对数组的补充。数组的长度不可变，go 提供了 slice 作为“动态数组”使用。 slice 底层依赖于数组。且支持通过 append() 向slice中追加元素，长度不够时会动态扩展，通过再次slice切片，可以得到得到更小的slice结构，可以迭代、遍历等。
 

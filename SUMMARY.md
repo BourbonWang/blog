@@ -5,6 +5,7 @@
     * [详解 go slice](golang/slice.md)
     * [常用库 container/list](golang/list.md)
     * [go 字符串](golang/string.md)
+    * [详解 go channel](golang/channel.md)
 * 计算机基础
 * linux
     - [.sh 添加执行权限](linux/chmod.md)
