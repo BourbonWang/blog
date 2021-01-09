@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * golang
-    * [切片 (Slice) 与数组 (Array)](golang/slice.md)
+    * [详解 go slice](golang/slice.md)
     * [常用库 container/list](golang/list.md)
 * 计算机基础
 * linux
