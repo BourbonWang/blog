@@ -9,7 +9,7 @@
     * [详解 go channel](golang/channel.md)
     * [go 读写json文件](golang/json.md)
 * 计算机基础
-    * [HTTP 和 HTTPS](network/https.md)
+    * [HTTP 和 HTTPS](network/http.md)
 * linux
     - [.sh 添加执行权限](linux/chmod.md)
 * 常用工具
