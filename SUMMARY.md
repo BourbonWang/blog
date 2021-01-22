@@ -10,6 +10,8 @@
     * [go 读写json文件](golang/json.md)
 * 计算机基础
     * [HTTP 和 HTTPS](network/http.md)
+    * [TCP详解](network/tcp.md)
+    * [TCP三次握手和四次挥手](network/three-way-handshake.md)
 * linux
     - [.sh 添加执行权限](linux/chmod.md)
 * 常用工具
