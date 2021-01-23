@@ -1,0 +1,898 @@
+Live reload server started on port: 35729
+Press CTRL+C to quit ...
+
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 4 pages 
+[0;36minfo:[0m found 6 asset files 
+[0;33mwarn:[0m "options" property is deprecated, use config.get(key) instead 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.1s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file linux/chmod.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 4 pages 
+[0;36minfo:[0m found 7 asset files 
+
+[0;31mError: ENOENT: no such file or directory, stat '/home/blog/_book/gitbook/gitbook-plugin-fontsettings/fontsettings.js'[0m
+Live reload server started on port: 35729
+Press CTRL+C to quit ...
+
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 5 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;33mwarn:[0m "options" property is deprecated, use config.get(key) instead 
+[0;31merror:[0m error while generating page "linux/chmod.sh": 
+
+[0;31mFileNotParsableError: "linux/chmod.sh" file cannot be parsed[0m
+Live reload server started on port: 35729
+Press CTRL+C to quit ...
+
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 5 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;33mwarn:[0m "options" property is deprecated, use config.get(key) instead 
+[0;31merror:[0m error while generating page "linux/chmod.sh": 
+
+[0;31mFileNotParsableError: "linux/chmod.sh" file cannot be parsed[0m
+Live reload server started on port: 35729
+Press CTRL+C to quit ...
+
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 5 pages 
+[0;36minfo:[0m found 8 asset files 
+[0;33mwarn:[0m "options" property is deprecated, use config.get(key) instead 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.3s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 5 pages 
+[0;36minfo:[0m found 8 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 5 pages 
+[0;36minfo:[0m found 8 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 0.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 6 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.7s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 6 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.3s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 6 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.0s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 6 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 6 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.6s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 6 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.1s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 7 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 7 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 7 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 8 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.1s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 8 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 8 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.3s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file README.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 9 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.3s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 9 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.4s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 9 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.4s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 10 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 10 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file golang/mutex.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 10 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.0s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 10 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 10 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 10 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 3.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 10 pages 
+[0;36minfo:[0m found 7 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file README.md
+
+Stopping server
+[0;36minfo:[0m 22 plugins are installed 
+[0;36minfo:[0m 19 explicitly listed 
+[0;36minfo:[0m loading plugin "page-treeview"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "code"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "pageview-count"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "popup"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "tbfed-pagefooter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "favicon"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "hide-element"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "back-to-top-button"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "splitter"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing-plus"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "chapter-fold"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "donate"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "github"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 10 pages 
+[0;36minfo:[0m found 8 asset files 
+
+[0;31mError: ENOENT: no such file or directory, stat '/home/blog/_book/gitbook/gitbook-plugin-tbfed-pagefooter/footer.css'[0m
