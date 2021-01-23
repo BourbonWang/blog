@@ -2,17 +2,20 @@
 
 ## 关于我
 
-软件工程本科在读。现居重庆。
+软件工程本科在读。
+
+现居重庆。
 
 热爱技术，思考和审视世界。
 
-### 学习清单
+## 学习清单
 
 - Golang 底层原理，常用库
 - 计算机网络
 - 操作系统
 - 数据库：Mysql，Redis
-- Linux 常用操作
+- Linux
+- 分布式与微服务相关组件
 - 设计模式
 
 ## 关于博客
@@ -25,6 +28,6 @@
 
 如果本博客能够帮助到您，欢迎打赏。
 
-github：https://github.com/BourbonWang
+Github：https://github.com/BourbonWang
 
-email: 1141134779@qq.com
+Email: 1141134779@qq.com
