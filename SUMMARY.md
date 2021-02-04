@@ -15,8 +15,10 @@
     * [UDP详解](network/udp.md)
     * [从输入URL到获得页面请求的全过程](network/process-from-URL-to-response.md)
 * 数据库
+    * [数据库的三范式](db/nf.md)
     * [MySQL事务](db/mysql-transaction.md)
     * [MySQL索引](db/mysql-index.md)
+    * [MySQL日志](db/mysql-log.md)
 * linux
     - [.sh 添加执行权限](linux/chmod.md)
 * 常用工具
