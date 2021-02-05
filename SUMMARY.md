@@ -19,6 +19,7 @@
     * [MySQL事务](db/mysql-transaction.md)
     * [MySQL索引](db/mysql-index.md)
     * [MySQL日志](db/mysql-log.md)
+    * [Redis数据类型](db/redis-types.md)
 * linux
     - [.sh 添加执行权限](linux/chmod.md)
 * 常用工具
