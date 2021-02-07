@@ -18,8 +18,12 @@
     * [数据库的三范式](db/nf.md)
     * [MySQL事务](db/mysql-transaction.md)
     * [MySQL索引](db/mysql-index.md)
+    * [MySQL 乐观锁与悲观锁](db/mysql-lock.md)
     * [MySQL日志](db/mysql-log.md)
     * [Redis数据类型](db/redis-types.md)
+    * [Redis 特性](db/redis-function.md)
+    * [Redis 为什么快](db/redis-single-thread.md)
+    * [Redis 持久化](db/redis-presistence.md)
 * linux
     - [.sh 添加执行权限](linux/chmod.md)
 * 常用工具

@@ -10,10 +10,11 @@
 
 ## 学习清单
 
-- Golang 底层原理，常用库
+- Golang
 - 计算机网络
 - 操作系统
-- 数据库：Mysql，Redis
+- Mysql
+- Redis
 - Linux
 - 分布式与微服务相关组件
 - 设计模式
