@@ -278,6 +278,8 @@ WEBHOOKIT_CONFIGURE = {
 
 ```sh
 cd /home/blog
+git fetch --all
+git reset --hard origin/master
 git pull
 gitbook install
 gitbook init
