@@ -25,7 +25,7 @@
     * [Redis 为什么快](db/redis-single-thread.md)
     * [Redis 持久化](db/redis-presistence.md)
 * linux
-    - [.sh 添加执行权限](linux/chmod.md)
+    * [.sh 添加执行权限](linux/chmod.md)
 * 常用工具
     * [Docker 安装 Nginx 并实现反向代理](other/reverseproxy.md)
     * [Git同步本地项目到Github](other/git.md)
