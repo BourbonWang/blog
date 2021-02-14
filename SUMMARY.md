@@ -14,6 +14,9 @@
     * [TCP三次握手和四次挥手](network/three-way-handshake.md)
     * [UDP详解](network/udp.md)
     * [从输入URL到获得页面请求的全过程](network/process-from-URL-to-response.md)
+* 操作系统
+    * [进程和线程](os/process-thread-routine.md)
+    * [CPU调度](os/CPU-schedule.md)
 * 数据库
     * [数据库的三范式](db/nf.md)
     * [MySQL事务](db/mysql-transaction.md)
