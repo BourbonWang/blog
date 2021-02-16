@@ -17,6 +17,7 @@
 * 操作系统
     * [进程和线程](os/process-thread-routine.md)
     * [CPU调度](os/CPU-schedule.md)
+    * [进程同步](os/synchronization.md)
 * 数据库
     * [数据库的三范式](db/nf.md)
     * [MySQL事务](db/mysql-transaction.md)
