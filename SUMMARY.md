@@ -8,6 +8,7 @@
     * [go map](golang/map.md)
     * [互斥锁 / 读写锁](golang/mutex.md)
     * [详解 go channel](golang/channel.md)
+    * [goroutine](golang/goroutine.md)
     * [go 读写json文件](golang/json.md)
 * 计算机网络
     * [HTTP 和 HTTPS](network/http.md)
@@ -16,7 +17,7 @@
     * [UDP详解](network/udp.md)
     * [从输入URL到获得页面请求的全过程](network/process-from-URL-to-response.md)
 * 操作系统
-    * [进程和线程](os/process-thread-routine.md)
+    * [进程和线程](os/process-thread.md)
     * [CPU调度](os/CPU-schedule.md)
     * [进程同步](os/synchronization.md)
     * [死锁](os/deadlock.md)
