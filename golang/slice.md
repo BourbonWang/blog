@@ -144,7 +144,7 @@ copy的返回值是拷贝成功的元素数量，所以也就是src slice或dst 
 ```go
 s1 := []int{3, 4, 5}
 s2 := make([]int, 2, 7)
-copy(s1, s2)            //s2: len=2 cap=7 [3 4]
+copy(s2, s1)            //s2: len=2 cap=7 [3 4]
 ```
 
 ## slice做函数参数

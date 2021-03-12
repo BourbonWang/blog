@@ -42,7 +42,7 @@ string 是 redis 最基本的类型，是key - value存储。string 类型是二
 
 hash类型的key是一个唯一值，value是一个hashmap。使用hash类型可以将多个key-value存储到一个key里。
 
-hash天然的适合存储对象和结构化数据。如果使用string存储对象，需要对序列转换和解析，在修改时需要将整个对象反序列化，再修改，然后序列化存储；如果对分别存储对象的多个key-value，容易产生太多的key，浪费内存；使用hash就不没有这些问题。
+hash天然的适合存储对象和结构化数据。如果使用string存储对象，需要对序列转换和解析，在修改时需要将整个对象反序列化，再修改，然后序列化存储；如果分别存储对象的多个key-value，容易产生太多的key，浪费内存；使用hash就没有这些问题。
 
 比如：存储 `{{field1: value1},{field2: value2}}`: 
 
